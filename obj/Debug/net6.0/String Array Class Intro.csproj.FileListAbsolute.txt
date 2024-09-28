@@ -1,0 +1,15 @@
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/bin/Debug/net6.0/String Array Class Intro
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/bin/Debug/net6.0/String Array Class Intro.deps.json
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/bin/Debug/net6.0/String Array Class Intro.runtimeconfig.json
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/bin/Debug/net6.0/String Array Class Intro.dll
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/bin/Debug/net6.0/String Array Class Intro.pdb
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/obj/Debug/net6.0/String Array Class Intro.csproj.AssemblyReference.cache
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/obj/Debug/net6.0/String Array Class Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/obj/Debug/net6.0/String Array Class Intro.AssemblyInfoInputs.cache
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/obj/Debug/net6.0/String Array Class Intro.AssemblyInfo.cs
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/obj/Debug/net6.0/String Array Class Intro.csproj.CoreCompileInputs.cache
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/obj/Debug/net6.0/String Array Class Intro.dll
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/obj/Debug/net6.0/refint/String Array Class Intro.dll
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/obj/Debug/net6.0/String Array Class Intro.pdb
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/obj/Debug/net6.0/String Array Class Intro.genruntimeconfig.cache
+/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/obj/Debug/net6.0/ref/String Array Class Intro.dll

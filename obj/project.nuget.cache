@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y5H7lhgK6SOxHaiRgnGlOuU1Q3YR91UDiNM0+2O33t1ATIUeYQFQODI5INVkizV+dUY0sCZ1WSHLdG7o7rHQ4A==",
+  "success": true,
+  "projectFilePath": "/Users/fidan/Projects/String Array Class Intro/String Array Class Intro/String Array Class Intro.csproj",
+  "expectedPackageFiles": [
+    "/Users/fidan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/fidan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/fidan/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
